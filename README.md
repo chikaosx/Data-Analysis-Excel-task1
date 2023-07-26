@@ -1,5 +1,5 @@
 # Employee Information Management
-![]()
+![](rewnew.jpg)
 ## Introduction
 This project involves managing employee information in an Excel file. The project comprises three worksheets with different functionalities: Worksheet 1 Show only employees who are ‘Freelancers’ and highlight the ones whose salaries are above $10000, Worksheet 2 splits employee full names into first and last names while highlighting any duplicates, and Worksheet 3 highlights employees whose names begin with the letter 'E' and formats the salary column based on salary values.
 
@@ -16,7 +16,7 @@ This worksheet contains a table with 20 rows of employee information, including 
 3. Department: The department in which the employee works (Communications, Sales, I.T).
 4. Salary: Employee's salary (ranging from $5000 to $25000).
 5. Job Type: Type of job the employee holds (Part-time, Freelance, Contract).
-![]()
+![](raw data.png)
 
 ## Selecting Employees who job type is freelance and their Salary is above $10,0000 or above
 In this worksheet, only employees who are ‘Freelancers’ and has salary of $10000 and above are selected and shown here.
