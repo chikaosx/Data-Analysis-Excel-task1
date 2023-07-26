@@ -16,20 +16,22 @@ This worksheet contains a table with 20 rows of employee information, including 
 3. Department: The department in which the employee works (Communications, Sales, I.T).
 4. Salary: Employee's salary (ranging from $5000 to $25000).
 5. Job Type: Type of job the employee holds (Part-time, Freelance, Contract).
-![](raw data.png)
+![](raw data.PNG)
 
 ## Selecting Employees who job type is freelance and their Salary is above $10,0000 or above
 In this worksheet, only employees who are ‘Freelancers’ and has salary of $10000 and above are selected and shown here.
+![](filter.PNG)
 
 ## Splitting Employee Names and Highlighting Duplicates
 In this worksheet, the Employee Full Name column from Worksheet 1 is split into two separate columns: First Name and Last Name. If any duplicate names are found, they will be highlighted.
-![]()
+![](duplicate.PNG)
 
 ## Highlighting Specific Employees and Formatting Salary
 This worksheet contains two main functionalities:
 
 1. Highlighting employees whose names begin with the letter 'E': Employees whose names start with 'E' will be highlighted in yellow.
 2. Formatting Salary column: The salary column will be formatted with a green background for the highest salary value and a red background for the lowest salary value.
+![](maximum.PNG)
 
 ## Conclusion
 
