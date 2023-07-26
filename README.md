@@ -16,7 +16,7 @@ This worksheet contains a table with 20 rows of employee information, including 
 3. Department: The department in which the employee works (Communications, Sales, I.T).
 4. Salary: Employee's salary (ranging from $5000 to $25000).
 5. Job Type: Type of job the employee holds (Part-time, Freelance, Contract).
-![](raw data.PNG)
+![](raw.PNG)
 
 ## Selecting Employees who job type is freelance and their Salary is above $10,0000 or above
 In this worksheet, only employees who are ‘Freelancers’ and has salary of $10000 and above are selected and shown here.
